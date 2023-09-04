@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container container24325">
   <Navbar />
   
   <div>
@@ -9,3 +9,8 @@
   <Tabbar />
   </div>
 </template>
+
+<style>
+
+
+</style>

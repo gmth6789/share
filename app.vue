@@ -1,5 +1,5 @@
 <template>
-  <view class="container container24325">
+  <div>
     <NuxtPage />
   </div>
 </template>
